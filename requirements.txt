@@ -1,0 +1,5 @@
+tensorflow==2.2.0
+streamlit==0.62.0
+Flask==1.1.2
+matplotlib==3.2.2
+numpy
